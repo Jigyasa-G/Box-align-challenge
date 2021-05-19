@@ -1,0 +1,41 @@
+body{
+  background-color:NONE;
+}
+div{
+  background-color:none;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-left:0px;
+  height:76px;
+}
+body{
+  margin: 0px;
+}
+h1{
+  margin: 0px;
+}
+
+.one{background-color:#a9f1df;
+padding: 20px;
+height: 200px;
+width: 200px;
+border: solid 10px;
+/*margin: 10px*/}
+
+.first{background-color: red;
+  height: 200px;
+  align-self: center;
+  border: solid 20px;
+/***FOR CENTRE ALIGN OF BOX
+  margin-left: auto;
+  margin-right: auto;  ***/
+  margin-left: 260PX;
+  width: 200px;}
+
+.second{background-color: YELLOW;
+height: 200px;
+border: solid 10px;
+margin-left: 500PX;
+width:200px;}
+
+.en{text-decoration:underline;}
