@@ -37,3 +37,8 @@ height: 200px;
 border: solid 10px;
 margin-left: 500PX;
 width:200px;}
+
+@media (prefers-color-scheme: dark) {
+  background-color: black;
+  /* all your styles for dark mode here */
+}
